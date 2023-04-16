@@ -45,12 +45,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BolotinAlexey/goit-react-hw-01-components.git"
+    "url": "git+https://github.com/UnaRumel/goit-react-hw-01"
   },
   "keywords": [],
-  "author": "Oleksii Bolotin",
+  "author": "Una Rumel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BolotinAlexey/goit-react-hw-01-components/issues"
+    "url": "https://github.com/UnaRumel/goit-react-hw-01"
   }
 }
