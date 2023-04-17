@@ -2,25 +2,41 @@
 /* bring in normalize.css styles */
 
 body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: bisque;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-ul {
-  list-style: none;
+ul,
+ol {
   margin: 0;
   padding: 0;
 }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* thead>tr {
+  background-color: rgb(189, 217, 78);
+}
+
+tr:nth-child(even) {
+  background-color: blue;
+}
+
+tr:nth-child(odd) {
+  background-color: white;
+} */
